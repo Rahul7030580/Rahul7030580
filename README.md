@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing BE in AI&DS 
 - 📫 How to reach me: 44rxhul@proton.me
-- ⚡ Fun fact: ...
+
 
